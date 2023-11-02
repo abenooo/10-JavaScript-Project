@@ -2,7 +2,8 @@
 A simple, intuitive, and efficient To-Do application built with HTML, CSS, and JavaScript.
 
 App Screenshot 
-<img width="912" alt="Screenshot 2023-11-02 at 05 04 30" src="https://github.com/abenooo/10-JavaScript-Project/assets/52881874/16484886-3e1c-46e4-bd7b-ae59e400cdc2">
+
+<img width="912" alt="Screenshot 2023-11-02 at 05 04 30" src="https://github.com/abenooo/10-JavaScript-Project/assets/52881874/1da3dd02-04a6-4b9f-8c8c-622a5510696f">
 
 
 #Features
