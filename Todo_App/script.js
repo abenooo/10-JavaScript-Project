@@ -9,6 +9,7 @@ function addTask() {
         let li = document.createElement("li");
         li.innerHTML = input_box.value;
         list_container.appendChild(li);
-
     }
+    input_box.value="";
+
 }
