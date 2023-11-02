@@ -6,7 +6,13 @@
 
 }
 .container{
-    width: 100%;
     min-height: 100vh;
+    padding: 10px;
     background: linear-gradient(183deg,#8ea81b,#0dc528);
+}
+.todo-app{
+width: 100%;
+max-width: 545px;
+background-color: #fff;
+margin:100px auto;
 }
