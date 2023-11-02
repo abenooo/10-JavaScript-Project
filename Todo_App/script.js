@@ -27,7 +27,7 @@ list_container.addEventListener("click", function (e) {
         saveTask();
 
     } else if (e.target.tagName === "SPAN") {
-        e.target.classList.remove("checked");
+        e.target.parentElement.remove("checked");
         saveTask();
 
     }
